@@ -29,4 +29,4 @@ This project represents my journey from learning Java basics to building a full-
 ## 🚀 How to Run
 1. Clone this repository:  
    ```bash
-   git clone [https://github.com/your-username/Imperial-Crown-Bank.git](https://github.com/Ahsan-muhd-444/Imperial-Crown-Bank-java)
+   git clone https://github.com/Ahsan-muhd-444/Imperial-Crown-Bank-java.git
