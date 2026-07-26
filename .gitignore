@@ -1,0 +1,26 @@
+# Compiled class files
+*.class
+bin/
+out/
+build/
+
+# Packaging
+*.jar
+*.war
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Runtime data files (kept out of version control)
+temp.txt
+Bank_managemnet.txt
